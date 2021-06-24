@@ -1,0 +1,14 @@
+
+	body {margin: 0;
+			font-family: font-family: 'Amatic SC', cursive;
+			background-image: url('image/white-brick-wall_u-l-q103a5n0.jpg');background-repeat: no-repeat;background-size: cover;}
+
+
+			#dod{background-color: #333;position: absolute;top: 10%;left: 35%;width: 500px;height: 600px;}
+
+			#dod1{background-color: orange;position: absolute;top: 2%;left: 57%;width: 200px;height: 300px;}
+
+				#dod2{background-color: orange;position: absolute;top: 52%;left: 27%;width: 200px;height: 300px;}
+
+				#h3
+				{position: absolute;top: 12%;left: 30%;color: white; font-size: 60px;letter-spacing:4px;z-index: 22;font-family: 'Just Another Hand', cursive;}

@@ -1,0 +1,281 @@
+	body {margin: 0;
+			font-family: font-family: 'Amatic SC', cursive;}
+
+			.image {
+  background-image: url("images/camera-1868773_960_720.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: 'Julius Sans One', sans-serif;
+
+}
+
+.button{background-color: orange;
+		border: none;
+		text-align: center;
+		text-decoration: none;
+		font-size: 16px;
+		padding: 10px 24px;
+		opacity: 0.8;
+		cursor: pointer}
+
+
+		ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+    	li {
+ 			 float: left;
+						}
+
+							li a {
+										  display: block;
+  											color: black;
+ 										 text-align: center;
+ 										 padding: 12px 34px;
+ 										 text-decoration: none;
+									font-family: 'Roboto Condensed', sans-serif;}
+
+							li a:hover:not(.active) {
+ 									 background-color: #111;
+ 									 color: white
+											}
+
+										#pap{position: fixed;
+											z-index: 100;
+											background-color: white;
+											width: 100%	}
+
+
+									#pintrest{background-image: url("images/https___blogs-images.forbes.com_petertaylor_files_2017_01_iStock-157636929-1200x800.jpg");
+												background-color: white;
+												height: 500px;
+												background-repeat: no-repeat;
+												background-position: right;
+
+												}
+
+
+
+												.usefuldiv{height: 200px;
+															background-color:white}
+
+															#h3{font-family: 'Amatic SC', cursive; 
+															font-size: 50px;
+															letter-spacing: 3px;
+															text-align: center;
+															margin-top: 100px}
+
+															.xls{font-family: 'Muli', sans-serif;	
+																	margin-left: 180px 
+																	;font-size: 30px;
+																	
+																	font-weight: bold;
+																}
+
+																.xls::first-letter{font-size: 50px}
+
+																.havit{font-family: 'Open Sans Condensed', sans-serif;
+																		text-align: justify;
+																		margin-left: 55px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold
+																		}
+
+																		.havit1{font-family: 'Open Sans Condensed', sans-serif;
+																		text-align: justify;
+																		margin-left: 90px;
+																		font-size: 25px;
+																		font-weight: bold;
+																		line-height: 1.6;
+																		font-variant: small-caps;
+																		letter-spacing: 3px}
+
+																		.havit1::first-letter{font-size: 50px}
+
+
+															#ad1{background-color: white;
+																background-image:url("images/384868716093f08da662e9aff603ef63.jpg");
+																height: 700px;
+																background-repeat: no-repeat;
+																width: 100%	;
+																background-size:623px 700px;
+															}
+
+															#sony{text-align: left;
+															font-family: 'Open Sans Condensed', sans-serif;
+																		padding-top: 50px;
+																		margin-left: 55px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 50px;															
+															}
+
+															#sony::first-letter{font-size: 50px}
+
+
+
+															#sony1{text-align: left;
+															font-family: 'Open Sans Condensed', sans-serif;
+																		
+																		margin-left: 55px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 50px;															
+															}
+
+
+															#pen{background-color: white;
+																
+																background-image: url("images/1080ap-Wallpapers-Full-HD-Downloadf.jpg");
+																width: 100%;
+																height: 500px;
+																background-repeat: no-repeat;
+																background-position: right;
+																background-size: 960px 500px
+
+																}
+
+
+																	#ps3{text-align: right;
+															font-family: 'Open Sans Condensed', sans-serif;
+																		padding-top: 200px;
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 50px;															
+															}
+
+																#ps2{text-align:right;
+															font-family: 'Open Sans Condensed', sans-serif;
+																		
+																		margin-left: 120px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 50px;															
+															}
+
+															#ps1{text-align: right;
+															font-family: 'Open Sans Condensed', sans-serif;
+																		
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 50px;															
+															}
+
+															#ps3::first-letter{font-size: 50px}
+
+															#acme{background-color: white;
+																	background-image: url("images/3808a6301020c6bada2afde7800d7016.jpg");
+																	height: 677px;
+																	background-repeat: no-repeat;
+																	width: 100%;
+																	background-size: 624px 677px
+																	}
+
+																	#kopernikus{text-align: right;
+																	font-family: 'Open Sans Condensed', sans-serif;
+																		padding-top: 200px;
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 332px;							}
+
+																			#kopernikus1{text-align: right;
+																	font-family: 'Open Sans Condensed', sans-serif;
+																		
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 350px;						}
+
+																			#kopernikus2{text-align: right;
+																	font-family: 'Open Sans Condensed', sans-serif;
+																		
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 200px;						}
+
+																			#kopernikus3{text-align: right;
+																	font-family: 'Open Sans Condensed', sans-serif;
+																		
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 290px;						}
+
+																		#name{text-align: right;
+																	font-family: 'Open Sans Condensed', sans-serif;
+																		padding-top: 20px;																		
+																		margin-left: 20px;
+																		line-height: 1.0;
+																		font-variant: small-caps; letter-spacing: 3px;
+																		font-size: 25px	;
+																		font-weight: bold;
+																		margin-right: 290px;}
+
+		 #eac{background-color: white
+		 		;width: 100%;
+		 		height: 200px}
+
+		 		#eac:hover{background-color: #333;color: white}																
+
+		 		#sms{width: 30px;
+		 			height: 30px;
+		 			padding-left:700px;
+		 			padding-top: 80px}
+
+		 			#sms1{width: 30px;
+		 			height: 30px;
+		 			padding-left:20px;
+		 			padding-top: 80px}
+
+
+		 			#sms2{width: 40px;
+		 			height: 30px;
+		 			padding-left:20px;
+		 			padding-top: 80px}
+
+		 															i{text-align: center;
+		 																padding-left: 660px;
+		 																padding-top:10px ;
+		 																font-family: 'Indie Flower', cursive;
+		 																 }
